@@ -35,7 +35,7 @@ This program performs:
 - Tokenization using NLTK
 - Tokenization using spaCy
 
-**File:** `Program1_Tokenization.ipynb`
+**File:** `program1.ipynb`
 
 ---
 
@@ -46,7 +46,7 @@ Stemming and lemmatization are text normalization techniques.
 - **Stemming** reduces words to their root-like form.
 - **Lemmatization** converts words into their meaningful dictionary form.
 
-**File:** `Program2_Stemming_Lemmatization.ipynb`
+**File:** `program2.ipynb`
 
 ---
 
@@ -62,7 +62,7 @@ The program demonstrates stop-word removal:
 - Without NLTK
 - Using NLTK
 
-**File:** `Program3_Stopword_Removal.ipynb`
+**File:** `program3.ipynb`
 
 ---
 
@@ -81,7 +81,7 @@ Examples:
 
 This program uses NLTK for POS tagging.
 
-**File:** `Program4_POS_Tagging.ipynb`
+**File:** `program4.ipynb`
 
 ---
 
@@ -94,7 +94,7 @@ This program demonstrates:
 - Dependency parsing using spaCy
 - Noun phrase chunking using spaCy
 
-**File:** `Program5_Parsing_Chunking.ipynb`
+**File:** `program5.ipynb`
 
 ---
 
@@ -111,7 +111,7 @@ Named Entity Recognition (NER) identifies important entities in text, such as:
 
 This program uses the spaCy English language model for NER.
 
-**File:** `Program6_Named_Entity_Recognition.ipynb`
+**File:** `program6.ipynb`
 
 ---
 
